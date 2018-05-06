@@ -1,0 +1,10 @@
+9
+Start,0,0,
+Standard,5,0,
+Standard,7,2,
+Standard,12,1,
+Standard,15,0,
+Standard,20,3,
+Standard,24,5,
+Standard,27,7,
+End,30,0,
